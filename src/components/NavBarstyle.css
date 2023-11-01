@@ -1,0 +1,8 @@
+.navbar {
+    background-color: #333; /* Color de fondo de la barra de navegación */
+    color: #fff; /* Color de texto en la barra de navegación */
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 10px 0;
+  }
